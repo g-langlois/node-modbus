@@ -1,3 +1,7 @@
+This package has been forked from https://github.com/Cloud-Automation/node-modbus
+
+------
+
 A simple an easy to use Modbus TCP client/server implementation.
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
